@@ -1,0 +1,3 @@
+### Maybe db, maybe not, who knows...
+
+Attempt to learn rust and implement a simple database according this guide: https://cstack.github.io/db_tutorial/
